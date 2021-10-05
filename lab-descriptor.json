@@ -1,79 +1,84 @@
 {
-    "broadArea": {
-        "name": "Computer Science and Engineering",
-        "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
-    },
-    "lab": "Computational Linguistics",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "cl-iiith.vlabs.ac.in",
-    "introduction": "Introduction:</br>Computational linguistics is an interdisciplinary study drawing inputs mainly from computer science and linguistics. Linguistics is the scientific study of human language. The subfields of linguistics include Phonology, Morphology, Syntax, Semantics, Discourse and Pragmatics. In computational linguistics, all these subfields are modeled computationally for analysis and generation of language. In the first phase of the virtual labs, however, learners are exposed to only two levels of language processing – word and sentence levels.</br></br>The experiments focus on part of speech tagging, shallow parsing and building of dictionaries. These experiments will help the learners from both the disciplines – linguistics and computer science – to have a hands on experience with language using computational methods.</br></br>For more details, visit <a href='https://ltrc.iiit.ac.in/'>https://ltrc.iiit.ac.in/</a>",
-    "experiments": [
-        {
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+  "lab": "Computational Linguistics",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "cl-iiith.vlabs.ac.in",
+  "introduction": "Introduction:</br>Computational linguistics is an interdisciplinary study drawing inputs mainly from computer science and linguistics. Linguistics is the scientific study of human language. The subfields of linguistics include Phonology, Morphology, Syntax, Semantics, Discourse and Pragmatics. In computational linguistics, all these subfields are modeled computationally for analysis and generation of language. In the first phase of the virtual labs, however, learners are exposed to only two levels of language processing – word and sentence levels.</br></br>The experiments focus on part of speech tagging, shallow parsing and building of dictionaries. These experiments will help the learners from both the disciplines – linguistics and computer science – to have a hands on experience with language using computational methods.</br></br>For more details, visit <a href='https://ltrc.iiit.ac.in/'>https://ltrc.iiit.ac.in/</a>",
+  "experiments": [
+    {
       "name": "Forming Sentences-1",
       "short-name": "forming-sentences-1",
       "repo": "https://github.com/virtual-labs/exp-forming-sentences-1-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Forming Sentences-2",
       "short-name": "forming-sentences-2",
       "repo": "https://github.com/virtual-labs/exp-forming-sentences-2-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Tokens and Types",
       "short-name": "tokens-and-types",
       "repo": "https://github.com/virtual-labs/exp-tokens-and-types-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Heap's Law",
       "short-name": "heaps-law",
       "repo": "https://github.com/virtual-labs/exp-heaps-law-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Dictionary Generation",
       "short-name": "dictionary-generation",
       "repo": "https://github.com/virtual-labs/exp-dictionary-generation-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Coarse-grained POS Tagging",
       "short-name": "coarse-grained",
       "repo": "https://github.com/virtual-labs/exp-coarse-grained-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Fine-grained POS Tagging",
       "short-name": "fine-grained",
       "repo": "https://github.com/virtual-labs/exp-fine-grained-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Chunking",
       "short-name": "chunking-cl",
       "repo": "https://github.com/virtual-labs/exp-chunking-cl-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-        }
-        ],
-    "targetAudience": {
-        "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
-        "PG": ["Ph. D. Beginners"]
-    },
-    "objective": "The objective of Computational Linguistics lab is to re-orient students of linguistics to the computational aspects of language analysis. At the same time, students coming from backgrounds other than linguistics will be introduced to linguistic concepts, terminology and analysis.",
-    "courseAlignment": { 
-        "description": "",
-        "universities": ["The syllabi of this lab aligns to B. Tech./ B.E in Computer Science & Information Technology."]
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
+    "PG": ["Ph. D. Beginners"]
+  },
+  "objective": "The objective of Computational Linguistics lab is to re-orient students of linguistics to the computational aspects of language analysis. At the same time, students coming from backgrounds other than linguistics will be introduced to linguistic concepts, terminology and analysis.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "The syllabi of this lab aligns to B. Tech./ B.E in Computer Science & Information Technology."
+    ]
+  },
+  "exp_name": "Chunking",
+  "exp_short_name": "chunking-cl",
+  "version": "v0.2.0"
 }
