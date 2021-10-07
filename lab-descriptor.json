@@ -14,56 +14,56 @@
       "name": "Forming Sentences-1",
       "short-name": "forming-sentences-1",
       "repo": "https://github.com/virtual-labs/exp-forming-sentences-1-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Forming Sentences-2",
       "short-name": "forming-sentences-2",
       "repo": "https://github.com/virtual-labs/exp-forming-sentences-2-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Tokens and Types",
       "short-name": "tokens-and-types",
       "repo": "https://github.com/virtual-labs/exp-tokens-and-types-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Heap's Law",
       "short-name": "heaps-law",
       "repo": "https://github.com/virtual-labs/exp-heaps-law-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Dictionary Generation",
       "short-name": "dictionary-generation",
       "repo": "https://github.com/virtual-labs/exp-dictionary-generation-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Coarse-grained POS Tagging",
       "short-name": "coarse-grained",
       "repo": "https://github.com/virtual-labs/exp-coarse-grained-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Fine-grained POS Tagging",
       "short-name": "fine-grained",
       "repo": "https://github.com/virtual-labs/exp-fine-grained-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Chunking",
       "short-name": "chunking-cl",
       "repo": "https://github.com/virtual-labs/exp-chunking-cl-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -80,5 +80,5 @@
   },
   "exp_name": "Chunking",
   "exp_short_name": "chunking-cl",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
