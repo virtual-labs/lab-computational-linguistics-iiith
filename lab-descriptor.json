@@ -63,7 +63,7 @@
       "name": "Chunking",
       "short-name": "chunking-cl",
       "repo": "https://github.com/virtual-labs/exp-chunking-cl-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
@@ -80,5 +80,5 @@
   },
   "exp_name": "Chunking",
   "exp_short_name": "chunking-cl",
-  "version": "v0.5.0"
+  "version": "v0.6.0"
 }
