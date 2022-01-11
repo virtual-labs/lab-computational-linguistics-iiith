@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
   },
   "lab": "Computational Linguistics",
+  "lab_display_name": "Computational Linguistics",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
@@ -63,7 +64,7 @@
       "name": "Chunking",
       "short-name": "chunking-cl",
       "repo": "https://github.com/virtual-labs/exp-chunking-cl-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     }
   ],
@@ -80,5 +81,5 @@
   },
   "exp_name": "Chunking",
   "exp_short_name": "chunking-cl",
-  "version": "v0.6.0"
+  "version": "v0.7.0"
 }
